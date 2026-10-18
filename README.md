@@ -1,4 +1,4 @@
-# KrustOS-2
+# KrustOS-2(Not out jet)
 Double boot private OS.
 -----------------------
 ## Features:
